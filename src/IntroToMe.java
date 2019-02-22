@@ -15,6 +15,7 @@ public class IntroToMe {
         System.out.println("My Name is Dale R");
         System.out.println("I am in the Graduate Program for IT at UC");
         System.out.println("I started here in 2017");
+        System.out.println("A brand new line");
         
     }
     
