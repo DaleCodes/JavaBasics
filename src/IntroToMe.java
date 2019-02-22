@@ -12,7 +12,7 @@ public class IntroToMe {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("My Name is Dale");
+        System.out.println("My Name is Dale R");
         System.out.println("I am in the Graduate Program for IT at UC");
         System.out.println("I started here in 2017");
         
